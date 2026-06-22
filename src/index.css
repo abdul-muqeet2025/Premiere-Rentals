@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Montserrat", "Inter", sans-serif;
+  
+  --color-brand-primary: #0d9488; /* Sleek vibrant teal */
+  --color-brand-secondary: #0f172a; /* Deep elegant slate */
+  --color-brand-accent: #f97316; /* High-conversion orange */
+  --color-brand-accent-hover: #ea580c;
+  --color-brand-success: #10b981;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Premiere Rentals Fife Ltd",
+  "description": "High-converting, trust-driven letting agency landing page for landlords, tenants, and investors in Kirkcaldy and Fife, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
